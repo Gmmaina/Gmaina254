@@ -10,7 +10,7 @@
 
 - 🤙 Call **0110081376**
 
-- 😄 Fun fact **I think I am lazy*
+- 😄 Fun fact **I think I am lazy**
 
 
 <h3 align="center" padding-bottom="25px">Languages and Tools:</h3>
