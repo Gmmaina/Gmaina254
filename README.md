@@ -1,4 +1,4 @@
-![hey-hello](https://user-images.githubusercontent.com/106425420/200753447-e75f034c-944f-44bf-8818-c9bcc015563d.gif height="250")
+![hey-hello](https://user-images.githubusercontent.com/106425420/200753447-e75f034c-944f-44bf-8818-c9bcc015563d.gif)
 
 # GIDEON MAINA
 Hi 👋, I’m Gideon Maina, currently an undergraduate IT student aspiring to become an Android Developer.
