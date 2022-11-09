@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Gideon Maina
+#
+
+👋 Hi, I’m Gideon Maina
 - 👀 I’m interested in ANDROID DEVELOPMENT
 - 🌱 I’m currently learning KOTLIN.
 - 📫 How to reach me 01100811376 & mutondogm@gmail.com
