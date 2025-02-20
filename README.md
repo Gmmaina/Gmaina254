@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/106425420?s=400&u=b085168d95d6f441cbfe03a5c8fc2a1bc05473b7&v=4" 
-       alt="Profile Picture" width="400">
+       alt="Profile Picture" width="400" style=" border-radius: 50%;">
 </p>
 
 <!-- Introduction -->
 ## 👋 Hi, I'm Gideon Maina!
 ## 🌍 Aspiring Android Developer | 📍 Kenya
-## 💡 Passionate about building mobile applications!
+## 💡 I'm a passionate and driven aspiring Android Developer from Kenya. I love building sleek, user-friendly mobile applications that solve real-world problems. My journey in tech is fueled by curiosity, creativity, and a desire to make an impact through code!
 
 <!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools
