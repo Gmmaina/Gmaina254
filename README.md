@@ -1,6 +1,7 @@
 <body style="font-family: Arial, sans-serif; text-align: center; background-color: #121212; color: white; margin: 0; padding: 20px;">
     <div style="max-width: 800px; margin: auto;">
         <img src=https://www.facebook.com/share/17k2F5tXxM/? alt="Profile Banner" style="width: 100%; border-radius: 10px;">
+          <img src="[https://user-images.githubusercontent.com/106425420/200753447-e75f034c-944f-44bf-8818-c9bcc015563d.gif](https://avatars.githubusercontent.com/u/106425420?s=400&u=b085168d95d6f441cbfe03a5c8fc2a1bc05473b7&v=4)" alt="Hey" height="200"/>
         <h1>👋 Hi, I'm Gideon Maina! 🚀</h1>
         <p>🌍 <strong>Aspiring Android Developer</strong> | 📍 Kenya</p>
         <p>💡 Passionate about building mobile applications!</p>
