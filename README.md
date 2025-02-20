@@ -46,8 +46,8 @@
 
 <!-- Fun Fact -->
 # 💡 Fun Fact 
-<p align="center">💙 I love solving problems, learning new technologies, and bringing ideas to life through code!</p>
+<p>💙 I love solving problems, learning new technologies, and bringing ideas to life through code!</p>
 
 <!-- Footer -->
 <hr style="border: 1px solid #444;">
-<p align="center">💻 <strong>Let's build something amazing together! 🚀</strong></p>
+<p>💻 <strong>Let's build something amazing together! 🚀</strong></p>
