@@ -33,7 +33,7 @@
 <h2>📫 Let's Connect! 🌍</h2>
 <p align="center">
   <a href="mailto:mutondogm@gmail.com"><img src="https://www.flaticon.com/free-icon/google_16509529" width="40"></a>
-  <a href="https://twitter.com/big_brother254"><img src="https://www.flaticon.com/free-icon/twitter_5969020" width="40"></a>
+  <a href="https://twitter.com/big_brother254"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtT-TwgAr5Q0lN3bGdOnohOKtgd8XlcueEZVXh6Rro1emY68F1pHBj2DqFnCss0JEB0v8&usqp=CAU" width="40"></a>
   <a href="https://linkedin.com/in/gideon-maina"><img src="https://www.flaticon.com/free-icon/linkedin_4494497" width="40"></a>
   <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
