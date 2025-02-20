@@ -33,9 +33,8 @@
 <h2>📫 Let's Connect! 🌍</h2>
 <p align="center">
   <a href="mailto:mutondogm@gmail.com"><img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" width="40"></a>
-  <a href="https://twitter.com/big_brother254"><img src="![image](https://github.com/user-attachments/assets/3b82ad6f-5775-4e46-b9c5-34d6e6abac2c)
-" width="40"></a>
-  <a href="https://linkedin.com/in/gideon-maina"><img src="https://www.flaticon.com/free-icon/linkedin_4494497" width="40"></a>
+  <a href="https://twitter.com/big_brother254"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD09bUIZH_BxQYefnQh2kLQU7dzcFYY1DQHg-eyPS_dIq30Cc6JGW3uTj1G4Aa5tKsqrE&usqp=CAU" width="40"></a>
+  <a href="https://linkedin.com/in/gideon-maina"><img src="https://banner2.cleanpng.com/20180419/oqq/avfzpcbox.webp" width="40"></a>
   <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
 
