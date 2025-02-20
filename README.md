@@ -6,7 +6,7 @@
 <!-- Introduction -->
 ## 👋 Hi, I'm Gideon Maina!
 ## 🌍 Aspiring Android Developer | 📍 Kenya
-## 💡 I'm a passionate and driven aspiring Android Developer from Kenya. I love building sleek, user-friendly mobile applications that solve real-world problems. My journey in tech is fueled by curiosity, creativity, and a desire to make an impact through code!
+#### 💡 I'm a passionate and driven aspiring Android Developer from Kenya. I love building sleek, user-friendly mobile applications that solve real-world problems. My journey in tech is fueled by curiosity, creativity, and a desire to make an impact through code!
 
 <!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools
