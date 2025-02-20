@@ -1,4 +1,4 @@
-<!-- Profile Banner (Circular) -->
+![image](https://github.com/user-attachments/assets/6a2527f0-c4de-4992-8264-be616aa799d0)<!-- Profile Banner (Circular) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/106425420?s=400&u=b085168d95d6f441cbfe03a5c8fc2a1bc05473b7&v=4" 
        alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #ffcc00;">
@@ -32,8 +32,9 @@
 <!-- Social Media Links with Icons -->
 <h2>📫 Let's Connect! 🌍</h2>
 <p align="center">
-  <a href="mailto:mutondogm@gmail.com"><img src="https://www.flaticon.com/free-icon/google_16509529" width="40"></a>
-  <a href="https://twitter.com/big_brother254"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtT-TwgAr5Q0lN3bGdOnohOKtgd8XlcueEZVXh6Rro1emY68F1pHBj2DqFnCss0JEB0v8&usqp=CAU" width="40"></a>
+  <a href="mailto:mutondogm@gmail.com"><img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" width="40"></a>
+  <a href="https://twitter.com/big_brother254"><img src="![image](https://github.com/user-attachments/assets/3b82ad6f-5775-4e46-b9c5-34d6e6abac2c)
+" width="40"></a>
   <a href="https://linkedin.com/in/gideon-maina"><img src="https://www.flaticon.com/free-icon/linkedin_4494497" width="40"></a>
   <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
