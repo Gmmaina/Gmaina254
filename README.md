@@ -66,5 +66,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Gmaina254&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
+  <img src="https://komarev.com/ghpvc/?username=Gmmaina&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
 </p>
