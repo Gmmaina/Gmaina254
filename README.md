@@ -35,16 +35,13 @@
         <h1>👋 Hi, I'm Gideon Maina! 🚀</h1>
         <p>🌍 <strong>Aspiring Android Developer</strong> | 📍 Kenya</p>
         <p>💡 Passionate about building mobile applications!</p>
-
         <h2>🔧 Technologies & Tools</h2>
         <p><strong>Android Development:</strong> Kotlin, Java, Jetpack Compose, Data Binding, Fragments, Firebase, REST APIs, Git, GitHub, CI/CD</p>
-
         <h2>📊 GitHub Stats 🚀</h2>
         <div class="stats-container">
             <img src="https://github-readme-stats.vercel.app/api?username=Gmmaina&show_icons=true&theme=radical" alt="GitHub Stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmmaina&layout=compact&theme=radical" alt="Top Languages">
         </div>
-
         <h2>📫 Let's Connect! 🌍</h2>
         <p>
             <a href="mailto:mutondogm@gmail.com">📧 Email</a> | 
@@ -52,10 +49,8 @@
             <a href="https://linkedin.com/in/gideon-maina">💼 LinkedIn</a> | 
             <a href="https://www.hackerrank.com/wizardkid">🏆 HackerRank</a>
         </p>
-
         <h2>💡 Fun Fact 🎉</h2>
         <p>💙 I love solving problems, learning new technologies, and bringing ideas to life through code!</p>
-
         <hr>
         <p>💻 <strong>Let's build something amazing together! 🚀</strong></p>
     </div>
