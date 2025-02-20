@@ -35,7 +35,7 @@
   <a href="mailto:mutondogm@gmail.com"><img src="https://www.flaticon.com/free-icon/google_16509529" width="40"></a>
   <a href="https://twitter.com/big_brother254"><img src="https://www.flaticon.com/free-icon/twitter_5969020" width="40"></a>
   <a href="https://linkedin.com/in/gideon-maina"><img src="https://www.flaticon.com/free-icon/linkedin_4494497" width="40"></a>
-  <a href="https://www.hackerrank.com/wizardkid"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F13547&psig=AOvVaw2z5q3BAYPqTzrkaTUbwN2O&ust=1740129078563000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDm39r00YsDFQAAAAAdAAAAABAE" width="40"></a>
+  <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
 
 <!-- Fun Fact -->
