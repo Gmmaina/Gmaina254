@@ -40,7 +40,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gmmaina&show_icons=true&locale=en" alt="gmaina254" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gmaina254&show_icons=true&locale=en" alt="gmaina254" />
   <span style="float:right;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gmmaina&" alt="gmaina254" />
   </span>
