@@ -37,13 +37,13 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmaina254&show_icons=true&locale=en&layout=compact" alt="gmaina254" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gmmaina&show_icons=true&locale=en&layout=compact" alt="gmaina254" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmaina254&show_icons=true&locale=en" alt="gmaina254" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gmmaina&show_icons=true&locale=en" alt="gmaina254" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmaina254&" alt="gmaina254" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gmmaina&" alt="gmaina254" />
 </p>
 
 <h3 align="center">GitHub Profile Trophy:</h3>
