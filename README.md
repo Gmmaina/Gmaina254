@@ -38,6 +38,9 @@
   <a href="https://linkedin.com/in/gideon-maina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+   <a href="https://www.hackerrank.com/wizardkid">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
   <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
 
