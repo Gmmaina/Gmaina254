@@ -40,15 +40,15 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gmaina254&show_icons=true&locale=en" alt="gmaina254" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gmaina254&show_icons=true&locale=en" alt="gmaina254" />
   <span style="float:right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmaina254&" alt="gmaina254" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gmaina254&" alt="gmaina254" />
   </span>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gmaina254" alt="gmaina254" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Gmaina254" alt="gmaina254" />
   </a>
 </p>
 
@@ -66,5 +66,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gmaina254&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
+  <img src="https://komarev.com/ghpvc/?username=Gmaina254&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
 </p>
