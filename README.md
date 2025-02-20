@@ -1,6 +1,6 @@
 # Hi there, I'm Gideon Maina! 👋
 
-![Profile Banner]([https://via.placeholder.com/](https://www.facebook.com/share/17k2F5tXxM/?mibextid=xfxF2i)800x200.png?text=Welcome+to+Gideon+Maina's+Profile)
+![Profile Banner](https://www.facebook.com/share/17k2F5tXxM/?mibextid=xfxF2i)800x200.png?text=Welcome+to+Gideon+Maina's+Profile)
 
 I'm an aspiring Android Developer based in Kenya, passionate about building innovative mobile applications.
 
