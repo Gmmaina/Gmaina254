@@ -29,6 +29,7 @@
 </p>
 
 <!-- Social Media Links with Icons -->
+#Let's Connect
 <a href="mailto:mutondogm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -41,7 +42,6 @@
 
    <a href="https://www.hackerrank.com/wizardkid">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  <a href="https://www.hackerrank.com/wizardkid"><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" width="40"></a>
 </p>
 
 <!-- Fun Fact -->
