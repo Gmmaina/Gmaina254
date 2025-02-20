@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/106425420?s=400&u=b085168d95d6f441cbfe03a5c8fc2a1bc05473b7&v=4" 
-       alt="Profile Picture" width="400" border-radius = "50%">
+       alt="Profile Picture" width="400" radius=50>
 </p>
 
 <!-- Introduction -->
