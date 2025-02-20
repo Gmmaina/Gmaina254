@@ -4,12 +4,12 @@
 </p>
 
 <!-- Introduction -->
-<h1>👋 Hi, I'm Gideon Maina! 🚀</h1>
-<p>🌍 <strong>Aspiring Android Developer</strong> | 📍 Kenya</p>
-<p>💡 Passionate about building mobile applications!</p>
+## 👋 Hi, I'm Gideon Maina!
+## 🌍 Aspiring Android Developer | 📍 Kenya
+## 💡 Passionate about building mobile applications!
 
 <!-- Technologies & Tools -->
-<h2>🔧 Technologies & Tools</h2>
+# 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- GitHub Stats (Side-by-Side with Matching Height) -->
-<h2 align="center">📊 GitHub Stats 🚀</h2>
+# 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gmmaina&show_icons=true&theme=radical" 
        alt="GitHub Stats" width="48%" height="200">
@@ -29,23 +29,23 @@
 </p>
 
 <!-- Social Media Links with Icons -->
-# Let's Connect
-<a href="mailto:mutondogm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/big_brother254">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/gideon-maina">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-   <a href="https://www.hackerrank.com/wizardkid">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+# Let's Connect!
+<p align="center>
+  <a href="mailto:mutondogm@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://twitter.com/big_brother254">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://linkedin.com/in/gideon-maina">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+     <a href="https://www.hackerrank.com/wizardkid">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
 </p>
 
 <!-- Fun Fact -->
-<h2 align="center">💡 Fun Fact 🎉</h2>
+# 💡 Fun Fact 
 <p align="center">💙 I love solving problems, learning new technologies, and bringing ideas to life through code!</p>
 
 <!-- Footer -->
