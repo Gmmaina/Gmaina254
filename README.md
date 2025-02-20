@@ -49,7 +49,7 @@
 <h3 align="center">GitHub Profile Trophy:</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gmaina254" alt="gmaina254" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Gmmaina" alt="gmaina254" />
   </a>
 </p>
 
@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gmaina254&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
+  <img src="https://komarev.com/ghpvc/?username=Gmmaina&label=Profile%20views&color=0e75b6&style=flat" alt="gmaina254" />
 </p>
