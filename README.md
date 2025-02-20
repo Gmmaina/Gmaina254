@@ -5,9 +5,9 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hi, I'm Gideon Maina! 🚀</h1>
-<p align="center">🌍 <strong>Aspiring Android Developer</strong> | 📍 Kenya</p>
-<p align="center">💡 Passionate about building mobile applications!</p>
+<h1>👋 Hi, I'm Gideon Maina! 🚀</h1>
+<p>🌍 <strong>Aspiring Android Developer</strong> | 📍 Kenya</p>
+<p>💡 Passionate about building mobile applications!</p>
 
 <!-- Technologies & Tools -->
 <h2 align="center">🔧 Technologies & Tools</h2>
