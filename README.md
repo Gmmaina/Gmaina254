@@ -10,7 +10,7 @@
 <p>💡 Passionate about building mobile applications!</p>
 
 <!-- Technologies & Tools -->
-<h2 align="center">🔧 Technologies & Tools</h2>
+<h2>🔧 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -30,12 +30,12 @@
 </p>
 
 <!-- Social Media Links with Icons -->
-<h2 align="center">📫 Let's Connect! 🌍</h2>
+<h2>📫 Let's Connect! 🌍</h2>
 <p align="center">
-  <a href="mailto:mutondogm@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"></a>
-  <a href="https://twitter.com/big_brother254"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"></a>
-  <a href="https://linkedin.com/in/gideon-maina"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"></a>
-  <a href="https://www.hackerrank.com/wizardkid"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-logo-shadow-tal-revivo.png" width="40"></a>
+  <a href="mailto:mutondogm@gmail.com"><img src="https://www.flaticon.com/free-icon/google_16509529" width="40"></a>
+  <a href="https://twitter.com/big_brother254"><img src="https://www.flaticon.com/free-icon/twitter_5969020" width="40"></a>
+  <a href="https://linkedin.com/in/gideon-maina"><img src="https://www.flaticon.com/free-icon/linkedin_4494497" width="40"></a>
+  <a href="https://www.hackerrank.com/wizardkid"><i class="fa-brands fa-hackerrank"></i></a>
 </p>
 
 <!-- Fun Fact -->
