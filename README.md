@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/106425420?s=400&u=b085168d95d6f441cbfe03a5c8fc2a1bc05473b7&v=4" 
-       alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #ffcc00;">
+       alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid: white;">
 </p>
 
 <!-- Introduction -->
@@ -9,7 +9,7 @@
 ## 💡 Passionate about building mobile applications!
 
 <!-- Technologies & Tools -->
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
